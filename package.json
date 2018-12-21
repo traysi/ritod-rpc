@@ -1,18 +1,18 @@
 {
-  "name": "ravend-rpc",
-  "description": "Ravencoin Client Library to connect to Ravencoin via RPC",
+  "name": "ritod-rpc",
+  "description": "Ritocoin Client Library to connect to Ritocoin via RPC",
   "version": "1.0.3",
   "author": {
     "name": "Under",
     "email": ""
   },
   "keywords": [
-    "ravencoin",
+    "ritocoin",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/underdarkskies/ravend-rpc"
+    "url": "https://github.com/traysi/ritod-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -31,7 +31,7 @@
     "async": "^1.3.0"
   },
   "bugs": {
-    "url": "https://github.com/underdarkskies/ravend-rpc/issues"
+    "url": "https://github.com/traysi/ritod-rpc/issues"
   },
-  "homepage": "https://github.com/underdarkskies/ravend-rpc"
+  "homepage": "https://github.com/traysi/ritod-rpc"
 }
